@@ -144,6 +144,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [萝卜炖羊排](dishes/meat_dish/萝卜炖羊排.md)
 - [麻辣香锅](dishes/meat_dish/麻辣香锅.md)
 - [麻婆豆腐](dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
+- [麻婆豆腐(王刚版)](<./../dishes/meat_dish/麻婆豆腐(王刚版)/麻婆豆腐(王刚版).md>)
 - [梅菜扣肉](dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [奶酪培根通心粉](dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md)
 - [啤酒鸭](dishes/meat_dish/啤酒鸭/啤酒鸭.md)
@@ -332,8 +333,8 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [泰国手标红茶](dishes/drink/泰国手标红茶/泰国手标红茶.md)
 - [杨枝甘露](dishes/drink/杨枝甘露.md)
 - [长岛冰茶](dishes/drink/长岛冰茶.md)
-- [B52轰炸机](dishes/drink/B52轰炸机.md)
-- [Mojito莫吉托](dishes/drink/Mojito莫吉托.md)
+- [B52 轰炸机](dishes/drink/B52轰炸机.md)
+- [Mojito 莫吉托](dishes/drink/Mojito莫吉托.md)
 
 ### 酱料和其它材料
 
